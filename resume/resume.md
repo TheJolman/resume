@@ -16,7 +16,7 @@ GPA: 3.42
 ## Projects
 ### Dumps or Fire
 - Simple and fun website to rate playlists, songs, and albums using data from the Spotify API
-- Technologies used: Djanog/Python  
+- Technologies used: Django/Python  
 - Worked with a team to build this app, learned the basics of front end web design, deploying websites, and API usage.  
 
 ### Task
