@@ -10,7 +10,7 @@ GPA: 3.42
 
 ## Technical Skills
 - Programming Languages: Java, Python, C++, C, bash  
-- Technologies and Tools: Numpy, Django, Linux, Nix, Git  
+- Technologies and Tools: Numpy, Django, Linux, Nix, Git, Vim  
 - Platforms: Linux, NixOS, Windows
 
 ## Projects
