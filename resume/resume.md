@@ -18,7 +18,7 @@ GPA: 3.42
 - Simple and fun website to rate playlists, songs, and albums using data from the Spotify API
 - Technologies used: Django/Python  
 - Worked with a team to build this app, learned lots about creating and deploying websites.
-- Check it out at (https://jolman.pythonanywhere.com)  
+- Check it out at https://jolman.pythonanywhere.com  
 
 ### Terminder
 - Simple and fast task manager CLI  
