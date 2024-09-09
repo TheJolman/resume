@@ -14,13 +14,13 @@ GPA: 3.42
 - Platforms: Linux, NixOS, Windows
 
 ## Projects
-### Dumps or Fire
+### Dumps or Fire, https://github.com/BCSchool/Software-Project
 - Simple and fun website to rate playlists, songs, and albums using data from the Spotify API
 - Technologies used: Django/Python, html/css, minimal Javascript
 - Worked with a team to build this app, learned lots about creating and deploying websites.
 - Check it out at https://jolman.pythonanywhere.com  
 
-### Terminder
+### Terminder, https://github.com/TheJolman/Terminder
 - Simple and fast task manager CLI  
 - Technologies used: C++, cereal, GNU Make
 - Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.
