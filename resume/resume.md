@@ -20,7 +20,7 @@ GPA: 3.42
 - Worked with a team to build this app, learned lots about creating and deploying websites.
 - Check it out at https://jolman.pythonanywhere.com  
 
-### Terminder, (github.com/TheJolman/Terminder)
+### Terminder (github.com/TheJolman/Terminder)
 - Simple and fast task manager CLI  
 - Technologies used: C++, cereal, GNU Make
 - Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.
