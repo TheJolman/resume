@@ -19,10 +19,11 @@ GPA: 3.42
 - Technologies used: Django/Python  
 - Worked with a team to build this app, learned the basics of front end web design, deploying websites, and API usage.  
 
-### Task
-- Simple and fast tasklist CLI  
-- Technologies used: C++  
-- Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities
+### Terminder
+- Simple and fast task manager CLI  
+- Technologies used: C++, cereal
+- Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.
+- Uses file serialization and shortest string matching for easy use.
 
 ## Experience
 ### Mathnasium, Rancho Palos Verdes, California
