@@ -3,10 +3,14 @@ Email: joshuaholman5@gmail.com | Phone: (310) 343-5376 | Location: Torrance, Cal
 LinkedIn: linkedin.com/in/joshua-holman-685a39244 | GitHub: github.com/thejolman
 
 ## Education
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science, Minor in Mathematics**  
 California State University, Fullerton  
 Expected Graduation: December 2025  
 GPA: 3.42  
+
+**Associate of Arts in Mathematics**  
+El Camino College, Torrance  
+Graduation Date: December 2023
 
 ## Technical Skills
 - Programming Languages: Java, Python, C++, C, bash  
