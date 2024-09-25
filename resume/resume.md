@@ -19,18 +19,18 @@ Graduation Date: December 2023
 
 ## Projects
 ### Dumps or Fire  
-Project repo: https://github.com/BCSchool/Software-Project
-- Simple and fun website to rate playlists, songs, and albums using data from the Spotify API
-- Technologies used: Django/Python, html/css, minimal Javascript
-- Worked with a team to build this app, learned lots about creating and deploying websites.
+Project repo: https://github.com/BCSchool/Software-Project  
+- Simple and fun website to rate playlists, songs, and albums using data from the Spotify API  
+- Technologies used: Django/Python, html/css, minimal Javascript  
+- Worked with a team to build this app, learned lots about creating and deploying websites.  
 - Check it out at https://jolman.pythonanywhere.com  
 
 ### Terminder 
-Project repo: https://github.com/TheJolman/Terminder
+Project repo: https://github.com/TheJolman/Terminder  
 - Simple and fast task manager CLI  
-- Technologies used: C++, cereal, GNU Make
-- Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.
-- Uses file serialization and shortest string matching for easy use.
+- Technologies used: C++, cereal, GNU Make  
+- Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.  
+- Uses file serialization and shortest string matching for easy use.  
 
 ## Experience
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA  
