@@ -5,32 +5,36 @@ LinkedIn: linkedin.com/in/joshua-holman-685a39244 | GitHub: github.com/thejolman
 ## Education
 **Bachelor of Science in Computer Science, Minor in Mathematics**  
 California State University, Fullerton  
-Expected Graduation: December 2025  
-GPA: 3.42  
+August 2023 - December 2025  
 
 **Associate of Arts in Mathematics**  
 El Camino College, Torrance  
-Graduation Date: December 2023
+August 2021 - December 2023
 
 ## Technical Skills
-- Programming Languages: Java, Python, C++, C, bash  
-- Technologies and Tools: Numpy, Django, Linux, Nix, Git, Vim  
-- Platforms: Linux, NixOS, Windows
+- **Programming Languages:** Java, Python, C++, C, bash  
+- **Technologies and Tools**: Django, Nix, Git, Vim, SQLite, Numpy, Pandas   
+- **Platforms**: Linux, NixOS, Windows
 
 ## Projects
-### Dumps or Fire  
-Project repo: https://github.com/BCSchool/Software-Project  
-- Simple and fun website to rate playlists, songs, and albums using data from the Spotify API  
-- Technologies used: Django/Python, html/css, minimal Javascript  
-- Worked with a team to build this app, learned lots about creating and deploying websites.  
-- Check it out at https://jolman.pythonanywhere.com  
+### [Playlist Rating Web App: Dumps or Fire](https://github.com/bcschool/software-project)  
+**Hosted at**: <https://jolman.pythonanywhere.com>  
+**Technologies**: Django, Python, HTML/CSS, Javascript, Spotify API, PythonAnywhere  
+ 
+- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotiy.  
+- **Role**: Back-end developer.
 
-### Terminder 
-Project repo: https://github.com/TheJolman/Terminder  
-- Simple and fast task manager CLI  
-- Technologies used: C++, cereal, GNU Make  
-- Wrote this to satisfy my need for a dead simple and ever-present program to keep track of my priorities.  
-- Uses file serialization and shortest string matching for easy use.  
+### [Task Tracking CLI App: Terminder](https://github.com/TheJolman/Terminder)  
+**Technologies**: C++, cereal, GNU Make  
+
+- Dead simple and ever-present program that keeps track of my priorities.  
+- **Features**: Implemented file serialization and shortest string matching.
+
+### [Porfolio Website](https://github.com/TheJolman/github.io)
+**Hosted at**: <https://thejolman.github.io>  
+**Technologies**: Vanilla JS/HTML/CSS
+- Mostly static site to showcase my personal projects and interests.
+
 
 ## Experience
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA  
@@ -42,8 +46,18 @@ Project repo: https://github.com/TheJolman/Terminder
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
 - Coached kids and adults alike in group workouts and lessons.  
-- Improved skills in leadership, communication, and quick decision making.  
+- Honed skills in leadership, communication, and time management.  
 
 ### Torrance Memorial Medical Center, Torrance, California
 **Central Cervices** (June 2021 - Aug 2021)  
-- Delivered medical supplies to the various departments within the hospital.  
+- Took shipments of medical supplies and delivered them to the various departments within a large hospital.
+
+<style>
+body {
+    font-size: 70%;
+}
+
+h1 {
+    text-align: center;
+}
+</style>
