@@ -21,7 +21,7 @@ August 2021 - December 2023
 **Hosted at**: <https://jolman.pythonanywhere.com>  
 **Technologies**: Django, Python, HTML/CSS, Javascript, Spotify API, PythonAnywhere  
  
-- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotiy.  
+- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.  
 - **Role**: Back-end developer.
 
 ### [Task Tracking CLI App: Terminder](https://github.com/TheJolman/Terminder)  
