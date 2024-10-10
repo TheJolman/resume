@@ -1,6 +1,6 @@
 # Joshua Holman
-Email: joshuaholman5@gmail.com | Phone: (310) 343-5376 | Location: Torrance, California  
-LinkedIn: linkedin.com/in/joshua-holman-685a39244 | GitHub: github.com/thejolman
+Email: <jolman@duck.com> | Phone: (310) 343-5376 | Location: Torrance, California  
+LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman)
 
 ## Education
 **Bachelor of Science in Computer Science, Minor in Mathematics**  
@@ -12,8 +12,8 @@ El Camino College, Torrance
 August 2021 - December 2023
 
 ## Technical Skills
-- **Programming Languages:** Java, Python, C++, C, bash  
-- **Technologies and Tools**: Django, Nix, Git, Vim, SQLite, Numpy, Pandas   
+- **Programming Languages:** Python, C++, C, Java, bash  
+- **Technologies and Tools**: Django, Nix, Git, Vim, SQLite, Numpy, Pandas, Scikit-Learn   
 - **Platforms**: Linux, NixOS, Windows
 
 ## Projects
@@ -25,14 +25,14 @@ August 2021 - December 2023
 - **Role**: Back-end developer.
 
 ### [Task Tracking CLI App: Terminder](https://github.com/TheJolman/Terminder)  
-**Technologies**: C++, cereal, GNU Make  
+**Technologies**: C++, Cereal, GNU Make  
 
 - Dead simple and ever-present program that keeps track of my priorities.  
 - **Features**: Implemented file serialization and shortest string matching.
 
 ### [Porfolio Website](https://github.com/TheJolman/github.io)
 **Hosted at**: <https://thejolman.github.io>  
-**Technologies**: Vanilla JS/HTML/CSS
+**Technologies**: Javascript, HTML/CSS
 - Mostly static site to showcase my personal projects and interests.
 
 
@@ -53,10 +53,6 @@ August 2021 - December 2023
 - Took shipments of medical supplies and delivered them to the various departments within a large hospital.
 
 <style>
-body {
-    font-size: 70%;
-}
-
 h1 {
     text-align: center;
 }
