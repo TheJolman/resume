@@ -39,20 +39,27 @@ August 2021 - December 2023
 ## Experience
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA  
 **Instructor** (Mar 2024 - Present)  
+
 - Work with K-12 students to help them achieve their math goals.  
 - Help students with topics they're learning in class and with learning new concepts.  
 - Transferred to Fullerton in Aug 2024.  
 
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
+
 - Coached kids and adults alike in group workouts and lessons.  
 - Honed skills in leadership, communication, and time management.  
 
 ### Torrance Memorial Medical Center, Torrance, California
 **Central Cervices** (June 2021 - Aug 2021)  
+
 - Took shipments of medical supplies and delivered them to the various departments within a large hospital.
 
 <style>
+body {
+    font-size: 70%;
+    font-family: 'Calibri';
+}
 h1 {
     text-align: center;
 }
