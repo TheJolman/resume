@@ -12,16 +12,16 @@ El Camino College, Torrance
 August 2021 - December 2023
 
 ## Technical Skills
-- **Programming Languages:** Python, C++, C, Java, bash  
-- **Technologies and Tools**: Django, Nix, Git, Vim, SQLite, Numpy, Pandas, Scikit-Learn   
-- **Platforms**: Linux, NixOS, Windows
+- **Programming Languages:** Python, C++, C, Java, bash, Lua, SQL
+- **Technologies & Frameworks**: Django, FastAPI, Pandas, Scikit-Learn, Boost
+- **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions
 
 ## Projects
 ### [Playlist Rating Web App: Dumps or Fire](https://github.com/bcschool/software-project)  
 **Hosted at**: <https://jolman.pythonanywhere.com>  
-**Technologies**: Django, Python, HTML/CSS, Javascript, Spotify API, PythonAnywhere  
- 
-- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.  
+**Technologies**: Django, Python, HTML/CSS, Javascript, Spotify API, PythonAnywhere
+
+- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
 - **Role**: Back-end developer.
 
 ### [Task Tracking CLI App: Terminder](https://github.com/TheJolman/Terminder)  
