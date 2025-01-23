@@ -32,7 +32,7 @@ August 2021 - December 2023
 
 ### [Portfolio Website](https://github.com/TheJolman/github.io)
 **Hosted at**: <https://thejolman.github.io>  
-**Technologies**: Javascript, HTML/CSS  
+**Technologies**: JavaScript, HTML/CSS  
 
 - Mostly static site to showcase my personal projects and interests.
 
