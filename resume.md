@@ -1,6 +1,6 @@
 # Joshua Holman
 Email: <jpholman@proton.me> | Phone: (310) 343-5376 | Location: Torrance, California  
-LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman)
+LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman) | [Portfolio](https://thejolman.github.io)
 
 ## Education
 **Bachelor of Science in Computer Science, Minor in Mathematics**  
