@@ -12,8 +12,8 @@ El Camino College, Torrance
 August 2021 - December 2023
 
 ## Technical Skills
-- **Programming Languages:** Python, C++, C, Java, bash, Lua, SQL
-- **Technologies & Frameworks**: Django, FastAPI, Pandas, Scikit-Learn, Boost
+- **Programming Languages:** Python, C++, C, Java, bash, Lua, SQL, Go
+- **Technologies & Frameworks**: Django, FastAPI, Pandas, Scikit-Learn, Boost, POSIX threads
 - **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions
 
 ## Projects
@@ -30,7 +30,7 @@ August 2021 - December 2023
 - Dead simple and ever-present program that keeps track of my priorities.  
 - **Features**: Implemented file serialization and shortest string matching.
 
-### [Porfolio Website](https://github.com/TheJolman/github.io)
+### [Portfolio Website](https://github.com/TheJolman/github.io)
 **Hosted at**: <https://thejolman.github.io>  
 **Technologies**: Javascript, HTML/CSS  
 
