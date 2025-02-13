@@ -1,6 +1,6 @@
 # Joshua Holman
-Email: <jpholman@proton.me> | Phone: (310) 343-5376 | Location: Torrance, California  
-LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman) | [Portfolio](https://thejolman.github.io)
+Email: <josh@jolman.me> | Phone: (310) 343-5376 | Location: Torrance, California  
+LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman) | Website: [jolman.me](https://jolman.me)
 
 ## Education
 **Bachelor of Science in Computer Science, Minor in Mathematics**  
@@ -12,8 +12,8 @@ El Camino College, Torrance
 August 2021 - December 2023
 
 ## Technical Skills
-- **Programming Languages:** Python, C++, C, Java, bash, Lua, SQL, Go
-- **Technologies & Frameworks**: Django, FastAPI, Pandas, Scikit-Learn, Boost, POSIX threads
+- **Programming Languages:** Python, C++, C, Java, Go, Lua, bash, SQL
+- **Technologies & Frameworks**: Django, FastAPI, Pandas, Scikit-Learn, Boost, POSIX threads, SQLite
 - **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions
 
 ## Projects
@@ -31,10 +31,10 @@ August 2021 - December 2023
 - **Features**: Implemented file serialization and shortest string matching.
 
 ### [Portfolio Website](https://github.com/TheJolman/github.io)
-**Hosted at**: <https://thejolman.github.io>  
+**Hosted at**: <https://jolman.me>  
 **Technologies**: JavaScript, HTML/CSS  
 
-- Mostly static site to showcase my personal projects and interests.
+- Site to showcase my personal projects and interests. Hosted on fly.io
 
 
 ## Experience
