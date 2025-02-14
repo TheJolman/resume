@@ -30,11 +30,11 @@ August 2021 - December 2023
 - Dead simple and ever-present program that keeps track of my priorities.  
 - **Features**: Implemented file serialization and shortest string matching.
 
-### [Portfolio Website](https://github.com/TheJolman/github.io)
-**Hosted at**: <https://jolman.me>  
-**Technologies**: JavaScript, HTML/CSS  
+### [MySQL Portal](https://github.com/TheJolman/mysql-portal)
+**Technologies**: PHP with MySQLi, HTML/CSS, MySQL (MariaDB)  
 
-- Site to showcase my personal projects and interests. Hosted on fly.io
+- Small full stack application with a simple but modern front end
+- Queries a MariaDB database using MySQLi and displays information to the user
 
 
 ## Experience
