@@ -17,7 +17,7 @@ August 2021 - December 2023
 
 ## Technical Skills
 - **Programming Languages:** Python, C++, C, Java, Go, Lua, bash, SQL
-- **Technologies & Frameworks**: Django, Gin, FastAPI, Pandas, Scikit-Learn, Boost, POSIX threads, SQLite
+- **Technologies & Frameworks**: Gin, Django, FastAPI, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads, SQLite
 - **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux, bash
 
 ---
@@ -36,7 +36,7 @@ August 2021 - December 2023
 
 - API in development for our club to manage data about board members, announcements, and events.
 - Created CI pipeline and branch protection rules to enable safe and seamless collaboration with a team.
-- Packaged with Nix, plans to deploy to AWS EC2.
+- Packaged with Nix, plans to deploy to our AWS EC2 instance with tf and nix.
 
 ### [Task Tracker CLI: Terminder](https://github.com/TheJolman/Terminder)
 **Technologies**: C++, Cereal, Nix, pre-commit, GitHub Actions  
