@@ -23,7 +23,7 @@ August 2021 - December 2023
 ---
 
 ## Projects
-### [Club Data API: api.acmcsuf.com](https://github.com/acmcsufoss) (in progress)
+### [Club Data API: api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com) (in progress)
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions  
 **Role**: Project lead, developer
 
@@ -38,7 +38,7 @@ August 2021 - December 2023
 - Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
 - Created CI/CD pipeline to enforce code quality and ensure production is up to date.
 
-### [Task Tracker CLI: Terminder](https://github.com/TheJolman/Terminder)
+### [Task Tracker CLI: Terminder](https://github.com/TheJolman/terminder)
 **Technologies**: C++, Cereal, Nix, pre-commit, GitHub Actions  
 **Role**: Sole developer and maintainer
 
