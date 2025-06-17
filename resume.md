@@ -51,13 +51,6 @@ August 2021 - December 2023
 **Role**: Developer, current maintainer
 
 - Terraform IAAC for deploying MediaWiki on AWS
-- Intended for easy use by anyone, plans to improve configurability and to support GCP & Azure
-
-### [Personal Site Rewrite](https://github.com/TheJolman/personal-site) (in progress)
-**Technologies**: Deno, Preact, FreshJS, Deno Deploy  
-**Role**: Sole developer and maintainer
-
-- Rewrite of my personal site to include more than just my portfolio.
 
 ---
 
