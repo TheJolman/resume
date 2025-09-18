@@ -78,7 +78,7 @@ August 2021 - December 2023
 
 ## Extracurriculars
 ### ACM Chapter, Cal State Fullerton
-**OSS Team Officer** (Jan 2025 - Present)
+**Open Source Team Officer** (Jan 2025 - Present)
 
 - Work with team of plan and deliver workshops about FOSS and other computer science topics.
 - Lead sub-group for developing club API.
