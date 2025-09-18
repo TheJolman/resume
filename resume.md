@@ -33,18 +33,18 @@ August 2021 - December 2023
 
 ### [Playlist Rating Web App: Dumps or Fire](https://github.com/thejolman/dumps-or-fire)
 **Technologies**: Django, Python, Bootstrap, Spotify API, fly.io, GitHub Actions, Docker  
-**Role**: Back-end developer and current maintainer
+**Role**: Back-end developer, current maintainer
 
 - Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
 - Created CI/CD pipeline to enforce code quality and ensure production is up to date.
 
-### [Task Tracker CLI: Terminder](https://github.com/TheJolman/terminder)
-**Technologies**: C++, Cereal, Nix, pre-commit, GitHub Actions  
-**Role**: Sole developer and maintainer
+### [Video Game (Re: Imagine)](https://github.com/TheJolman/rpg-raylib)
+**Technologies**: C23, Raylib, CMake, GitHub actions
+**Role**: Project management, lead developer
 
-- Simple and fast CLI that keeps track of my priorities.
-- Uses file serialization and shortest string matching for easy use.
-- Packaged with Nix.
+- Delegate tasks to artists and other developers.
+- Primary developer and software designer.
+- Write comprehensive documentation to assist new team members.
 
 ### [MediaWiki AWS](https://github.com/TheJolman/mediawiki-aws)
 **Technologies**: Terraform, AWS  
@@ -55,12 +55,12 @@ August 2021 - December 2023
 ---
 
 ## Experience
-### Mathnasium, Rancho Palos Verdes, Torrance & Fullerton, CA
+### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
 **Instructor** (Mar 2024 - Present)  
 
 - Work with K-12 students to help them achieve their math goals.
-- Help students with topics they're learning in class and with learning new concepts.
-- Transferred to Fullerton in Aug 2024.
+- Help students practice skills they learn in class and learn new concepts.
+- Transferred to Fullerton location in Aug 2024 and back to RPV in Jun 2025.
 
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
@@ -71,7 +71,8 @@ August 2021 - December 2023
 ### Torrance Memorial Medical Center, Torrance, California
 **Central Cervices** (June 2021 - Aug 2021)  
 
-- Took shipments of medical supplies and delivered them to the various departments within a large hospital.
+- Filled and delivered orders for medical supplies.
+- Work with team to supply surgery floor with necessary equipment.
 
 ---
 
