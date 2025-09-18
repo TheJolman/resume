@@ -27,16 +27,16 @@ August 2021 - December 2023
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions  
 **Role**: Project co-lead, developer
 
-- API in development for ACM@CSUF to manage board membership, announcements, and events.
-- Create CI pipeline and path for new developers to contribute.
-- Wrote large portion of app, wrote package and dev shell definitions with Nix.
+- Lead development of API for ACM@CSUF that manages board membership, announcements, and events.
+- Created a CI pipeline and path for new developers to contribute.
+- Write base routes, wrote package and dev shell definitions with Nix.
 
 ### [Playlist Rater (Dumps or Fire)](https://github.com/thejolman/dumps-or-fire)
 **Technologies**: Django, Python, Bootstrap, Spotify API, fly.io, GitHub Actions, Docker  
 **Role**: Back-end developer, current maintainer
 
-- Worked with a small team to develop a full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
-- Created CI/CD pipeline to enforce code quality and ensure production is up to date.
+- Worked with small team to develop full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
+- Created CI/CD pipeline to enforce code quality and keep production up to date.
 
 ### [Video Game (Re: Imagine)](https://github.com/TheJolman/rpg-raylib)
 **Technologies**: C23, Raylib, CMake, GitHub actions
@@ -50,7 +50,7 @@ August 2021 - December 2023
 **Technologies**: Terraform, AWS  
 **Role**: Developer, current maintainer
 
-- Configurable Terraform IAAC for deploying MediaWiki instances on AWS.
+- Developed configurable Terraform IAAC for deploying MediaWiki instances on AWS.
 
 ---
 
@@ -58,21 +58,21 @@ August 2021 - December 2023
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
 **Instructor** (Mar 2024 - Present)  
 
-- Work with K-12 students to help them achieve their math goals.
-- Help students practice skills they learn in class and learn new concepts.
+- Tutor K-12 students to help them achieve math goals.
+- Reinforce skills they learned in class and introduce new concepts.
 - Transferred to Fullerton location in Aug 2024 and back to RPV in Jun 2025.
 
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
 
-- Coach kids and adults alike in group workouts and lessons.
+- Coached kids and adults alike in group workouts and lessons.
 - Honed skills in leadership, communication, and time management.
 
 ### Torrance Memorial Medical Center, Torrance, California
 **Central Services** (June 2021 - Aug 2021)  
 
-- Fill and deliver orders for medical supplies.
-- Work with team to supply surgery floor with necessary equipment.
+- Filled and delivered orders for medical supplies.
+- Worked with team to supply surgery floor with necessary equipment.
 
 ---
 
