@@ -69,7 +69,7 @@ August 2021 - December 2023
 - Honed skills in leadership, communication, and time management.
 
 ### Torrance Memorial Medical Center, Torrance, California
-**Central Cervices** (June 2021 - Aug 2021)  
+**Central Services** (June 2021 - Aug 2021)  
 
 - Fill and deliver orders for medical supplies.
 - Work with team to supply surgery floor with necessary equipment.
