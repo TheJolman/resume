@@ -23,15 +23,15 @@ August 2021 - December 2023
 ---
 
 ## Projects
-### [Club Data API: api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com) (in progress)
+### [ACM Chapter API (api.acmcsuf.com)](https://github.com/acmcsufoss/api.acmcsuf.com)
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions  
-**Role**: Project lead, developer
+**Role**: Project co-lead, developer
 
-- API in development for our club to manage data about board members, announcements, and events.
-- Created CI pipeline and branch protection rules to enable safe and seamless collaboration with a team.
-- Packaged with Nix, plans to deploy to our AWS EC2 instance using Terraform and Nix.
+- API in development for ACM@CSUF to manage board membership, announcements, and events.
+- Create CI pipeline and path for new developers to contribute.
+- Wrote large portion of app, wrote package and dev shell definitions with Nix.
 
-### [Playlist Rating Web App: Dumps or Fire](https://github.com/thejolman/dumps-or-fire)
+### [Playlist Rater (Dumps or Fire)](https://github.com/thejolman/dumps-or-fire)
 **Technologies**: Django, Python, Bootstrap, Spotify API, fly.io, GitHub Actions, Docker  
 **Role**: Back-end developer, current maintainer
 
@@ -40,7 +40,7 @@ August 2021 - December 2023
 
 ### [Video Game (Re: Imagine)](https://github.com/TheJolman/rpg-raylib)
 **Technologies**: C23, Raylib, CMake, GitHub actions
-**Role**: Project management, lead developer
+**Role**: Project lead, lead developer
 
 - Delegate tasks to artists and other developers.
 - Primary developer and software designer.
@@ -50,7 +50,7 @@ August 2021 - December 2023
 **Technologies**: Terraform, AWS  
 **Role**: Developer, current maintainer
 
-- Terraform IAAC for deploying MediaWiki on AWS
+- Configurable Terraform IAAC for deploying MediaWiki instances on AWS.
 
 ---
 
@@ -65,13 +65,13 @@ August 2021 - December 2023
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
 
-- Coached kids and adults alike in group workouts and lessons.
+- Coach kids and adults alike in group workouts and lessons.
 - Honed skills in leadership, communication, and time management.
 
 ### Torrance Memorial Medical Center, Torrance, California
 **Central Cervices** (June 2021 - Aug 2021)  
 
-- Filled and delivered orders for medical supplies.
+- Fill and deliver orders for medical supplies.
 - Work with team to supply surgery floor with necessary equipment.
 
 ---
