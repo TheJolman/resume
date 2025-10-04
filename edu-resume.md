@@ -1,6 +1,6 @@
 # Joshua Holman
-Email: <josh@jolman.me> | Phone: (310) 343-5376 | Location: Torrance, California  
-LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [thejolman](https://github.com/thejolman) | Website: [jolman.me](https://jolman.me)
+Email: <work@jolman.me> | Phone: (323) 917-0915 | Location: Torrance, California  
+LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [TheJolman](https://github.com/thejolman) | Website: [jolman.me](https://jolman.me)
 
 ---
 
