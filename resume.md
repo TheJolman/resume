@@ -24,31 +24,26 @@ August 2021 - December 2023
 
 ## Projects
 ### [ACM Chapter API (api.acmcsuf.com)](https://github.com/acmcsufoss/api.acmcsuf.com)
-**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions  
-**Role**: Project co-lead, developer
+**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Cobra  
+**Role**: Project co-leader & load developer
 
-- Lead development of API for ACM@CSUF that manages board membership, announcements, and events.
+- Lead development of API for acm@CSUF that manages board membership, announcements, and events.
 - Created a CI pipeline and path for new developers to contribute.
 - Write base routes, wrote package and dev shell definitions with Nix.
+- Write comprehensive documentation for developer reference and new member onboarding.
 
 ### [Productivity App (Motion)](https://github.com/tomasohchom/motion)
 **Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker
+**Role**: Back-end developer & DevOps lead
 
-- Lead development of microservices written in Go
-- Containerized services for eventual deployment to AWS Fargate
-- Wrote Terraform IAAC
-- Wrote unit tests, integration tests, and e2e tests for microservices
-
-### [Playlist Rater (Dumps or Fire)](https://github.com/thejolman/dumps-or-fire)
-**Technologies**: Django, Python, Bootstrap, Spotify API, fly.io, GitHub Actions, Docker  
-**Role**: Back-end developer, current maintainer
-
-- Worked with small team to develop full-stack web application that can rate playlists, albums and songs using popularity data from Spotify.
-- Created CI/CD pipeline to enforce code quality and keep production up to date.
+- Lead development of microservices written in Go.
+- Containerized services for eventual deployment to AWS Fargate.
+- Wrote Terraform IAAC.
+- Wrote integration tests and e2e tests for Go microservices.
 
 ### [Video Game (Re: Imagine)](https://github.com/TheJolman/rpg-raylib)
-**Technologies**: C23, Raylib, CMake, GitHub actions
-**Role**: Project lead, lead developer
+**Technologies**: C23, Raylib, CMake, GitHub actions  
+**Role**: Project manager & lead developer
 
 - Delegate tasks to artists and other developers.
 - Primary developer and software designer.
