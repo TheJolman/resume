@@ -33,7 +33,7 @@ August 2021 - December 2023
 - Write comprehensive documentation for developer reference and new member onboarding.
 
 ### [Productivity App (Motion)](https://github.com/tomasohchom/motion)
-**Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker
+**Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
 - Lead development of microservices written in Go.
@@ -66,8 +66,7 @@ August 2021 - December 2023
 **Instructor** (Mar 2024 - Present)  
 
 - Tutor K-12 students to help them achieve math goals.
-- Reinforce skills they learned in class and introduce new concepts.
-- Transferred to Fullerton location in Aug 2024 and back to RPV in Jun 2025.
+- Reinforce skills students learn in class and introduce new concepts.
 
 ### South Bay Tennis Center, Torrance, California
 **Coach** (Aug 2021 - Aug 2024)  
