@@ -62,9 +62,10 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 ### ACM Chapter, Cal State Fullerton
 **Open Source Team Officer** (Jan 2025 - Present)
 
-- Work with team to create and deliver workshops on software development topics.
-- Lead several workshop and demos on important technologies and tools.
-- Lead sub-group for developing club API.
+- Work with team to create and deliver workshops on software development topics to 100+ students.
+- Lead several workshop and demos on important technologies and tools (e.g., Advanced
+Git, Rust, GitHub Actions, Consuming REST APIs).
+- Lead sub-group for developing api.acmcsuf.com (see above).
 
 ---
 
