@@ -17,7 +17,7 @@ August 2021 - December 2023
 
 ## Technical Skills
 - **Programming Languages:** Python, C++, C, Java, Go, Typescript, Lua, bash, SQL
-- **Technologies & Frameworks**: Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads
+- **Technologies**: Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads
 - **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux, bash
 
 ---
@@ -51,6 +51,16 @@ August 2021 - December 2023
 
 ---
 
+## Extracurriculars
+### ACM Chapter, Cal State Fullerton
+**Open Source Team Officer** (Jan 2025 - Present)
+
+- Work with team to create and deliver workshops on software development topics.
+- Lead several workshop and demos on important technologies and tools.
+- Lead sub-group for developing club API.
+
+---
+
 ## Experience
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
 **Instructor** (Mar 2024 - Present)  
@@ -71,11 +81,3 @@ August 2021 - December 2023
 - Filled and delivered orders for medical supplies.
 - Worked with team to supply surgery floor with necessary equipment.
 
----
-
-## Extracurriculars
-### ACM Chapter, Cal State Fullerton
-**Open Source Team Officer** (Jan 2025 - Present)
-
-- Work with team of plan and deliver workshops about FOSS and other computer science topics.
-- Lead sub-group for developing club API.
