@@ -1,6 +1,6 @@
 # Joshua Holman
 Email: <work@jolman.me> | Phone: (323) 917-0915 | Location: Torrance, California  
-LinkedIn: [joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [TheJolman](https://github.com/thejolman) | Website: [jolman.me](https://jolman.me)
+LinkedIn: [linkedin.com/in/joshua-holman-685a39244](https://linkedin.com/in/joshua-holman-685a39244) | GitHub: [github.com/TheJolman](https://github.com/thejolman) | Website: [jolman.me](https://jolman.me)
 
 ---
 
@@ -18,30 +18,33 @@ August 2021 - December 2023
 ## Technical Skills
 - **Programming Languages:** Python, C++, C, Java, Go, Typescript, Lua, bash, SQL
 - **Technologies**: Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads
-- **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux, bash
+- **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 
 ---
 
 ## Projects
-### [ACM Chapter API (api.acmcsuf.com)](https://github.com/acmcsufoss/api.acmcsuf.com)
+### ACM Chapter API (api.acmcsuf.com)
+**Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Cobra  
-**Role**: Project co-leader & load developer
+**Role**: Project co-leader & lead developer
 
-- Lead development of API for acm@CSUF that manages board membership, announcements, and events.
-- Created a CI pipeline and path for new developers to contribute.
+- Lead development of REST API for ACM at CSUF that manages board membership, announcements, and events.
+- Created a CI/CD pipeline and path for new developers to contribute.
 - Write base routes, wrote package and dev shell definitions with Nix.
 - Write comprehensive documentation for developer reference and new member onboarding.
 
-### [Productivity App (Motion)](https://github.com/tomasohchom/motion)
+### Productivity App (Motion)
+**Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
 **Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
-- Lead development of microservices written in Go.
-- Containerized services for eventual deployment to AWS Fargate.
-- Wrote Terraform IAAC.
-- Wrote integration tests and e2e tests for Go microservices.
+- Lead development of Go microservices (microscervices architecture).
+- Containerized services for eventual deployment to cloud using AWS Fargate.
+- Wrote Terraform Infrastructure as Code (IaC).
+- Wrote integration and e2e tests for automated testing in CI pipeline.
 
-### [Video Game (Re: Imagine)](https://github.com/TheJolman/rpg-raylib)
+### Video Game (Re: Imagine)
+**Repository**: [github.com/TheJolman/rpg-raylib](https://github.com/TheJolman/rpg-raylib)  
 **Technologies**: C23, Raylib, CMake, GitHub actions  
 **Role**: Project manager & lead developer
 
