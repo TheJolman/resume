@@ -16,31 +16,35 @@ August 2021 - December 2023
 ---
 
 ## Technical Skills
-- **Programming Languages:** Python, C++, C, Java, Go, Typescript, Lua, bash, SQL
-- **Technologies**: Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads
-- **Development Tools**: Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
+**Programming Languages**:
+Python, C++, C, Java, Go, Typescript, Lua, bash, SQL  
+**Technologies**:
+Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads  
+**Development Tools**:
+Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux  
 
 ---
 
 ## Projects
 ### ACM Chapter API (api.acmcsuf.com)
 **Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
-**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Cobra  
+**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Fly.IO Cobra  
 **Role**: Project co-leader & lead developer
 
-- Lead development of REST API for ACM at CSUF that manages board membership, announcements, and events.
-- Created a CI/CD pipeline and path for new developers to contribute.
-- Write base routes, wrote package and dev shell definitions with Nix.
-- Write comprehensive documentation for developer reference and new member onboarding.
+- Lead development of REST API for ACM at CSUF that manages data for club of 2,500 members.
+- Create tasks, delegate work, and review code for team of 7 core developers.
+- Created a CI/CD pipeline to drastically speed up development cycle and reduce programming errors.
+- Created reproducible development environment with Nix/direnv and comprehensive
+  docs to speed up onboarding.
 
 ### Productivity App (Motion)
 **Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
 **Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
-- Lead development of Go microservices (microscervices architecture).
+- Lead development of Go services for microscervices architecture backend.
 - Containerized services for eventual deployment to cloud using AWS Fargate.
-- Wrote Terraform Infrastructure as Code (IaC).
+- Wrote Terraform Infrastructure as Code (IaC) for reproducible deployments.
 - Wrote integration and e2e tests for automated testing in CI pipeline.
 
 ### Video Game (Re: Imagine)
@@ -48,9 +52,9 @@ August 2021 - December 2023
 **Technologies**: C23, Raylib, CMake, GitHub actions  
 **Role**: Project manager & lead developer
 
-- Delegate tasks to artists and other developers.
-- Primary developer and software designer.
-- Write comprehensive documentation to assist new team members.
+- Delegate tasks to artists and other developers (team of 6) with project management software.
+- Design gameplay system and create abstractions in C to reduce programming errors for new team members.
+- Created CI pipeline to speed up review/feedback/merge cycle.
 
 ---
 
