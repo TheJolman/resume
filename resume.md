@@ -9,10 +9,6 @@ LinkedIn: [linkedin.com/in/joshua-holman-685a39244](https://linkedin.com/in/josh
 California State University, Fullerton  
 August 2023 - December 2025  
 
-**Associate of Arts in Mathematics**  
-El Camino College, Torrance  
-August 2021 - December 2023
-
 ---
 
 ## Technical Skills
