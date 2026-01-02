@@ -4,7 +4,7 @@ TARGET := $(NAME).pdf
 
 all: $(TARGET)
 
-$(TARGET):
+$(TARGET): $(NAME).md
 	md-pdf $(NAME).md -c style.css
 
 install:
