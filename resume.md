@@ -27,7 +27,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Fly.IO Cobra  
 **Role**: Project co-leader & lead developer
 
-- Lead development of REST API for ACM at CSUF that manages data for club of 2,500 members.
+- Lead developer of acm@CSUF's REST API that manages data for club of 2,500 members.
 - Create tasks, delegate work, and review code for team of 7 core developers.
 - Created a CI/CD pipeline to drastically speed up development cycle and reduce programming errors.
 - Created reproducible development environment with Nix/direnv and comprehensive
@@ -38,7 +38,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 **Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
-- Lead development of Go services for microscervices architecture backend.
+- Led development of Go services for microscervices architecture backend.
 - Containerized services for eventual deployment to cloud using AWS Fargate.
 - Wrote Terraform Infrastructure as Code (IaC) for reproducible deployments.
 - Wrote integration and e2e tests for automated testing in CI pipeline.
@@ -59,9 +59,9 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 **Open Source Team Officer** (Jan 2025 - Present)
 
 - Work with team to create and deliver workshops on software development topics to 100+ students.
-- Lead several workshop and demos on important technologies and tools (e.g., Advanced
+- Led several workshop and demos on important technologies and tools (e.g., Advanced
 Git, Rust, GitHub Actions, Consuming REST APIs).
-- Lead sub-group for developing api.acmcsuf.com (see above).
+- Led sub-group for developing api.acmcsuf.com (see above).
 
 ---
 
