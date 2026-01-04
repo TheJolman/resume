@@ -1,5 +1,5 @@
 # Josh Holman
-Email: <work@jolman.me> | Phone: (323) 917-0915 | Location: Torrance, California  
+Email: [work@jolman.me](mailto:work@jolman.me) | Phone: [(323) 917-0915](tel:+13239170915) | Location: Torrance, California  
 LinkedIn: [linkedin.com/in/jolman-dot-me](https://www.linkedin.com/in/jolman-dot-me) | GitHub: [github.com/TheJolman](https://github.com/thejolman) | Website: [jolman.me](https://www.jolman.me)
 
 ---
