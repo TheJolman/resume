@@ -44,7 +44,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 - Wrote integration and e2e tests for automated testing in CI pipeline.
 
 ### Video Game (Re: Imagine)
-**Repository**: [github.com/TheJolman/rpg-raylib](https://github.com/TheJolman/rpg-raylib)  
+**Repository**: [github.com/TheJolman/re-imagine](https://github.com/TheJolman/re-imagine)  
 **Technologies**: C23, Raylib, CMake, GitHub actions  
 **Role**: Project manager & lead developer
 
