@@ -1,11 +1,7 @@
-NAME ?= resume
+%.pdf: %.md
+	md-pdf $< -c style.css
 
-TARGET := $(NAME).pdf
-
-all: $(TARGET)
-
-$(TARGET): $(NAME).md
-	md-pdf $(NAME).md -c style.css
+all: $(NAME).pdf
 
 install:
 	cp $(NAME).pdf ~/Documents/
