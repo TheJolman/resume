@@ -30,8 +30,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 - Lead developer of acm@CSUF's REST API that manages data for club of 2,500 members.
 - Create tasks, delegate work, and review code for team of 7 core developers.
 - Created a CI/CD pipeline to drastically speed up development cycle and reduce programming errors.
-- Created reproducible development environment with Nix/direnv and comprehensive
-  docs to speed up onboarding.
+- Created reproducible development environment with Nix/direnv and comprehensive docs to speed up onboarding.
 
 ### Productivity App (Motion)
 **Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
@@ -43,29 +42,27 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 - Wrote Terraform Infrastructure as Code (IaC) for reproducible deployments.
 - Wrote integration and e2e tests for automated testing in CI pipeline.
 
-### Video Game (Re: Imagine)
-**Repository**: [github.com/TheJolman/re-imagine](https://github.com/TheJolman/re-imagine)  
-**Technologies**: C23, Raylib, CMake, GitHub actions  
-**Role**: Project manager & lead developer
+### Secured Link Shortener + Client (shorter2)
+**Repository**: [github.com/acmcsufoss/shorter2](https://github.com/acmcsufoss/shorter2)  
+**Technologies**: Cloudflare Workers + KV, Hono, Discord, Typescript, Bun  
+**Role**: Lead Developer
 
-- Delegate tasks to artists and other developers (team of 6) with project management software.
-- Design gameplay system and create abstractions in C to reduce programming errors for new team members.
-- Created CI pipeline to speed up review/feedback/merge cycle.
-
----
-
-## Extracurriculars
-### ACM Chapter, Cal State Fullerton
-**Open Source Team Officer** (Jan 2025 - Present)
-
-- Work with team to create and deliver workshops on software development topics to 100+ students.
-- Led several workshop and demos on important technologies and tools (e.g., Advanced
-Git, Rust, GitHub Actions, Consuming REST APIs).
-- Led sub-group for developing api.acmcsuf.com (see above).
+- Identified suboptimal service used by club and rewrote with modern architecture.
+- Shortlink microservice and Discord app share generated token for secure communication, using Discord roles to validate users.
+- Create monorepo architecture for shared DTO models and lock-step development between packages.
+- Implement caching strategy for cost-effective list operations.
 
 ---
 
 ## Experience
+
+### ACM Chapter, Cal State Fullerton
+**Open Source Team Officer** (Jan 2025 - Present)
+
+- Update projects, CI pipelines, hosting platforms, and documentation improving performance, security, and developer experience.
+- Led workshops and demos on important-to-know technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
+- Lead developer for back-end web services and infra.
+
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
 **Instructor** (Mar 2024 - Present)  
 
