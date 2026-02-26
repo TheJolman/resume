@@ -24,13 +24,13 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 ## Projects
 ### ACM Chapter API (api.acmcsuf.com)
 **Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
-**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Fly.IO Cobra  
+**Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Fly.IO, Cobra  
 **Role**: Project co-leader & lead developer
 
 - Lead developer of acm@CSUF's REST API that manages data for club of 2,500 members.
-- Create tasks, delegate work, and review code for team of 7 core developers.
+- Create tasks, delegate work, and write/review code for team of 7 core developers.
 - Created a CI/CD pipeline to drastically speed up development cycle and reduce programming errors.
-- Created reproducible development environment with Nix/direnv and comprehensive docs to speed up onboarding.
+- Created reproducible development environment with Nix/direnv and wrote comprehensive technical docs, enhancing onboarding.
 
 ### Productivity App (Motion)
 **Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
