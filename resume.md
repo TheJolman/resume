@@ -57,7 +57,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 ## Experience
 
 ### ACM Chapter, Cal State Fullerton
-**Open Source Team Officer** (Jan 2025 - Present)
+**Open Source Team Officer** (Jan 2025 - Dec 2025)
 
 - Update projects, CI pipelines, hosting platforms, and documentation improving performance, security, and developer experience.
 - Led workshops and demos on important-to-know technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
