@@ -56,10 +56,17 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 
 ## Experience
 
-### ACM Chapter, Cal State Fullerton
+### theCoderSchool, Torrance, CA
+**Code Coach** (Mar 2026 - Present)  
+
+- Work 1-on-1 or 1-on-2 with K-12 students to create projects with Unity, Python, JavaScript, Scratch, and other technologies.
+- Teach technical skills and programming, as well as soft skills for software development.
+
+### acm@CSUF, Fullerton, CA
 **Open Source Team Officer** (Jan 2025 - Dec 2025)
 
-- Update projects, CI pipelines, hosting platforms, and documentation improving performance, security, and developer experience.
+- Maintain applications, CI pipelines, cloud infra, and technical documentation.
+- Improve performance, security, and developer experience for all applications.
 - Led workshops and demos on important-to-know technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
 - Lead developer for back-end web services and infra.
 
@@ -68,16 +75,3 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 
 - Tutor K-12 students to help them achieve math goals.
 - Reinforce skills students learn in class and introduce new concepts.
-
-### South Bay Tennis Center, Torrance, California
-**Coach** (Aug 2021 - Aug 2024)  
-
-- Coached kids and adults alike in group workouts and lessons.
-- Honed skills in leadership, communication, and time management.
-
-### Torrance Memorial Medical Center, Torrance, California
-**Central Services** (June 2021 - Aug 2021)  
-
-- Filled and delivered orders for medical supplies.
-- Worked with team to supply surgery floor with necessary equipment.
-
