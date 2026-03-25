@@ -22,22 +22,22 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 ---
 
 ## Projects
-### ACM Chapter API (api.acmcsuf.com)
+### acm@CSUF Data Layer (api.acmcsuf.com)
 **Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
 **Technologies**: Go, Gin, SQLite, OpenAPI, Nix, GitHub Actions, Fly.IO, Cobra  
 **Role**: Project co-leader & lead developer
 
 - Lead developer of acm@CSUF's REST API that manages data for club of 2,500 members.
 - Create tasks, delegate work, and write/review code for team of 7 core developers.
-- Created a CI/CD pipeline to drastically speed up development cycle and reduce programming errors.
-- Created reproducible development environment with Nix/direnv and wrote comprehensive technical docs, enhancing onboarding.
+- Created & maintain CI/CD pipeline to speed up development cycle and reduce programming errors.
+- Created reproducible development environment with Nix/direnv and wrote comprehensive technical docs, minimizing onboarding time.
 
 ### Productivity App (Motion)
 **Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
 **Technologies**: Go, Terraform, Typescript, Tanstack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
-- Led development of Go services for microscervices architecture backend.
+- Led development of Go services for microservices architecture backend.
 - Containerized services for eventual deployment to cloud using AWS Fargate.
 - Wrote Terraform Infrastructure as Code (IaC) for reproducible deployments.
 - Wrote integration and e2e tests for automated testing in CI pipeline.
@@ -67,7 +67,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 
 - Maintain applications, CI pipelines, cloud infra, and technical documentation.
 - Improve performance, security, and developer experience for all applications.
-- Led workshops and demos on important-to-know technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
+- Led workshops and demos on industry-standard technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
 - Lead developer for back-end web services and infra.
 
 ### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
