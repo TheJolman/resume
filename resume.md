@@ -12,12 +12,12 @@ August 2023 - December 2025
 ---
 
 ## Technical Skills
-**Programming Languages**:
-Python, C++, C, Java, Go, Typescript, Lua, bash, SQL  
+**Languages**:
+Python, C++, C, Go, Java, Typescript, Lua, bash, SQL, PowerShell, HTML/CSS  
 **Technologies**:
-Gin, Django, FastAPI, Deno, React, Terraform, AWS, Pandas, Scikit-Learn, POSIX threads  
-**Development Tools**:
-Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux  
+Gin, FastAPI, Django, NextJS, React, Cloudflare, AWS, Terraform, Pandas, POSIX threads, systemd  
+**Dev Tools**:
+Nix/NixOS, Proxmox, Linux, Docker, Git, GitHub Actions, Vim  
 
 ---
 
@@ -56,6 +56,14 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 
 ## Experience
 
+### Lyntris, Los Angeles, CA
+**RF Test Technician** (Jun 2026 - Present)  
+
+- Test, tune, and assemble large ground antenna components (e.g., diplexers, OMTs, waveguides).
+- Configure and use SOTA vector network analyzer for frequency band, waveguide size, and desired loss.
+- Write internal tools with PowerShell and VBScript to optimize team's workflow.
+
+
 ### theCoderSchool, Torrance, CA
 **Code Coach** (Mar 2026 - Present)  
 
@@ -65,13 +73,7 @@ Nix/NixOS, Docker, Git, Vim, GitHub Actions, Linux
 ### acm@CSUF, Fullerton, CA
 **Open Source Team Officer** (Jan 2025 - Dec 2025)
 
-- Maintain applications, CI pipelines, cloud infra, and technical documentation.
+- Write/maintain applications, CI pipelines, cloud infra, and technical documentation.
 - Improve performance, security, and developer experience for all applications.
 - Led workshops and demos on industry-standard technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
 - Lead developer for back-end web services and infra.
-
-### Mathnasium, Rancho Palos Verdes, CA & Fullerton, CA
-**Instructor** (Mar 2024 - Present)  
-
-- Tutor K-12 students to help them achieve math goals.
-- Reinforce skills students learn in class and introduce new concepts.
