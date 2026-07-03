@@ -61,7 +61,7 @@ Nix/NixOS, Proxmox, Linux, Docker, Git, GitHub Actions, Vim
 
 - Test, tune, and assemble large ground antenna components (e.g., diplexers, OMTs, waveguides).
 - Configure and use SOTA vector network analyzer for frequency band, waveguide size, and desired loss.
-- Write internal tools with PowerShell and VBScript to optimize team's workflow.
+- Write internal tools with PowerShell and Python + PyVISA to optimize team's workflow.
 
 
 ### theCoderSchool, Torrance, CA
