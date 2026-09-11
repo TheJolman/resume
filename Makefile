@@ -1,4 +1,4 @@
-%.pdf: %.md
+%.pdf: %.md style.css
 	md-pdf $< -c style.css
 
 all: $(NAME).pdf
