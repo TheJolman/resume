@@ -21,41 +21,30 @@ December 2025
 - Test, tune, and assemble large ground antenna components (e.g., diplexers, OMTs, waveguides).
 
 ### acm@CSUF, Fullerton, CA
-**Open Source Team Officer, Open Source Team Lead, FullyHacks Web Lead** (Jan 2025 - Present)
+**Open Source Team Lead, FullyHacks Web Lead** (Jan 2025 - Present)
 
 - Write and maintain club's applications, CI pipelines, cloud infra, and technical documentation.
-- Teach others how to contribute and cultivate a growing open-source community on campus.
 - Design and lead workshops on industry-standard technologies (e.g., Advanced Git, Rust, GitHub Actions, REST APIs).
-- Lead developer for acmcsuf.com's data layer and cloud infrastructure for web-based applications.
+- Lead developer for acmcsuf.com's data layer and cloud infrastructure.
 - Web team lead for FullyHacks, CSUF's yearly hackathon with 400+ attendees.
 
 ### theCoderSchool, Torrance, CA
 **Code Coach** (Mar 2026 - Present)  
 
 - Work 1-on-1 and 1-on-2 with K-12 students to create projects with Unity, Python, JavaScript, Scratch, and other technologies.
-- Teach technical skills and programming, as well as soft skills for software development.
+- Teach programming and soft skills for software development.
 - Configure DNS records and Cloudflare security policies to offer free production domains to advanced students.
-
-
-## Technical Skills
-**Languages**:
-Python, C++, C, Go, Java, Typescript, Lua, bash, SQL, PowerShell, HTML/CSS  
-**Technologies**:
-Gin, FastAPI, Django, Next.js, React, Cloudflare, AWS, Terraform, Pandas, POSIX threads, systemd  
-**Dev Tools**:
-Nix/NixOS, Proxmox, Linux, Docker, Git, GitHub Actions, Vim  
 
 ## Projects
 
 ### Spacetime Engineering Report Generator
-**Technologies**: Python, Tkinter, Pandas, NumPy, lets-plot, multithreading  
+**Technologies**: Python, scikit-rf, Pandas, NumPy, lets-plot, multithreading  
 **Role**: Sole Developer  
 
 - Create user stories and translate into technical requirements to address problem of poor-performing internal tools.
-- Implement GUI program for generating performance reports and plots for RF components.
 - Write algorithms to compute worst-case values (e.g. axial ratio) from up to ~120k rows of frequency data.
-- Implement plots generator for customer reports to replace previous arrangements of VNA screenshots.
-- Maintain CI and CD pipeline and documentation to release tool to non-technical team.
+- Implement plots generator to replace previous arrangements of VNA screenshots for customer reports.
+- Write Vector Network Analyzer drivers and automation programs.
 
 ### api.acmcsuf.com
 **Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
@@ -65,15 +54,23 @@ Nix/NixOS, Proxmox, Linux, Docker, Git, GitHub Actions, Vim
 - Lead developer of acm@CSUF's REST API that manages data for club of 2,500 members.
 - Create tasks, delegate work, and write/review code for team of 7 core developers.
 - Create & maintain CI/CD pipeline to speed up development cycle and reduce programming errors.
-- Created reproducible development environment with Nix/direnv and wrote comprehensive technical docs, minimizing onboarding time.
+- Created reproducible development environment with Nix and wrote comprehensive technical docs, minimizing onboarding time.
 
 ### Productivity App
 **Repository**: [github.com/tomasohchom/motion](https://github.com/tomasohchom/motion)  
 **Technologies**: Go, Terraform, TypeScript, TanStack, React, MinIO, AWS, Docker  
 **Role**: Back-end developer & DevOps lead
 
-- Led development of Go services for microservices architecture backend.
-- Containerized services for eventual deployment to cloud using AWS Fargate.
+- Led development of backend Go microservices.
+- Containerized services for deployment with AWS Fargate.
 - Wrote Terraform Infrastructure as Code (IaC) for reproducible deployments.
 - Wrote integration and end-to-end tests for automated testing in CI pipeline.
+
+## Technical Skills
+**Languages**:
+Python, C++, C, Go, Java, Typescript, Lua, bash, SQL, PowerShell, HTML/CSS  
+**Technologies**:
+Gin, FastAPI, Django, Next.js, React, Cloudflare, AWS, Terraform, Pandas, POSIX threads, systemd  
+**Dev Tools**:
+Nix/NixOS, Proxmox, Linux, Docker, Git, GitHub Actions, Vim  
 
