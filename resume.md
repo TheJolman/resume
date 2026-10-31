@@ -16,9 +16,9 @@ December 2025
 ### Spacetime Engineering (Lyntris), Los Angeles, CA
 **RF Test Technician** (Jun 2026 - Present)  
 
-- Write report generator program that offers 10x performance improvement and additional features over previous solution.
-- Create macros and other tools to control Vector Network Analyzers via VISA protocol.
-- Test, tune, and assemble large ground antenna components (e.g., diplexers, OMTs, waveguides).
+- Write drivers and automation programs for RF testing with network analyzers and related devices.
+- Create CD pipeline with rollback strategy for releasing internal software.
+- Test, tune, and assemble microwave feeds and components (e.g., diplexers, OMTs, waveguides).
 
 ### acm@CSUF, Fullerton, CA
 **Open Source Team Lead, FullyHacks Web Lead** (Jan 2025 - Present)
@@ -41,10 +41,10 @@ December 2025
 **Technologies**: Python, scikit-rf, Pandas, NumPy, lets-plot, multithreading  
 **Role**: Sole Developer  
 
-- Create user stories and translate into technical requirements to address problem of poor-performing internal tools.
+- Create user stories and technical requirements to address problem of poor-performing internal tools.
+- Implement program to achieve 10x performance gain and improved usability over legacy solution.
 - Write algorithms to compute worst-case values (e.g. axial ratio) from up to ~120k rows of frequency data.
-- Implement plots generator to replace previous arrangements of VNA screenshots for customer reports.
-- Write Vector Network Analyzer drivers and automation programs.
+- Create plot renderer to replace VNA screenshots on customer reports.
 
 ### api.acmcsuf.com
 **Repository**: [github.com/acmcsufoss/api.acmcsuf.com](https://github.com/acmcsufoss/api.acmcsuf.com)  
