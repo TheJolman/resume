@@ -10,9 +10,9 @@
 
 body {
     font-size: 69%;
-    /* font-family: 'Noto Sans'; */
+    font-family: 'Noto Sans';
     /* font-family: "PT Serif", serif; */
-    font-family: "Source Sans 3", sans-serif;
+    /* font-family: "Source Sans 3", sans-serif; */
     margin: 0;
     /* padding: 10mm; */
     line-height: 1.3;
