@@ -1,5 +1,5 @@
 %.pdf: %.md style.css
-	md-pdf $< -c style.css
+	md2pdf -i $< -c style.css
 
 all: $(NAME).pdf
 
